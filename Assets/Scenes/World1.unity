@@ -857,6 +857,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Larry
       objectReference: {fileID: 0}
+    - target: {fileID: 5232919385178076405, guid: c4f6439c18d1148b7a71aa16fed4e960,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 4900000, guid: 419fb9d9f2a9cba4497ccf84af83777f, type: 3}
     - target: {fileID: 7130537798410129838, guid: c4f6439c18d1148b7a71aa16fed4e960,
         type: 3}
       propertyPath: m_LocalPosition.x
